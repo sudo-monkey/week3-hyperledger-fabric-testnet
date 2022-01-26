@@ -15,4 +15,6 @@ Roles:-
  * Balaji - Digibank representative and admin for Digibank for CP (buyer/redeem). 
 
 ### Solutions:
-  * Start the `fabrict-test` network 
+ #### Network
+* Start the fabric-test network by going inside test-network/ and run `./network.sh`
+  *  
