@@ -15,6 +15,7 @@ Roles:-
  * Balaji - Digibank representative and admin for Digibank for CP (buyer/redeem). 
 
 ### Solutions:
- #### Network
+ #### Configure The Network
 * Start the fabric-test network by going inside test-network/ and run `./network.sh`
-  *  
+* Navigate inside `./configuration/cli/` and run `monitordocker.sh`
+* #### Preparing the issuance (Magnetocorp)
